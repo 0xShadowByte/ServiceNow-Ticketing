@@ -14,7 +14,6 @@ The ServiceNow training aims to equip IT support professionals with the skills t
 
 ## Tools Used
 - ServiceNow Developer
-- https://dev242095.service-now.com/pm
 
 ## Steps
 
