@@ -58,8 +58,26 @@ Once we know where the request is going then we'll input that into the "location
 
 Since there's no problem assigned to you at the moment, go ahead and make one up by clicking the "new" button on the right. For our example we'll give the problem statement as "My computer has a virus" and a description of "abcd". As you can tell on the right, it gives you helpful articles that you can quickly add to the ticket if you want. The Agent Assist can tailor the description to best fit.
 
-Impact and Urgency drop down menu proves you with the options of 1 - High, 2 - Medium and 3 - Low. Understanding the priorities and assigning the correct level is crucial for the teams that will be responsing to these problems. Then for assignment group, if you know who to assign this problem to from earlier then it'll make things easier. Since this is a security issue then we'll go ahead and assign this to "IT Securities" and click save.
+Impact and Urgency drop down menu proves you with the options of 1 - High, 2 - Medium and 3 - Low. Understanding the priorities and assigning the correct level is crucial for the teams that will be responsing to these problems. Then for assignment group, if you know who to assign this problem to from earlier then it'll make things easier. Since this is a security issue then we'll go ahead and assign this to "IT Securities" and click save. Now we have a ticket saved, PRB0040002, and if we go to open problems you'll see your ticket show up as an open problem.
 
 ![image](https://github.com/user-attachments/assets/e3b9d3d4-b5b4-4bf6-879f-80eba0774c19)
 
 ![image](https://github.com/user-attachments/assets/fbcf4306-0d17-4f45-a196-ff6b24a11507)
+
+![image](https://github.com/user-attachments/assets/db0aed8c-3ba8-4ba7-b298-d1889900745b)
+
+*Ref 7: Using the resolved problems section to our advantage*
+
+If we look into the resolved problems, you'll see what tickets the company has resolved and in there it tells you quality information, to see how they were resolved in a specific area. You can see what the issue is, who assigned, what area the problem was assigned to and how it was resolved. Good place to learn technical skills in the beginning.
+
+![image](https://github.com/user-attachments/assets/874b5291-d012-429d-9e23-bcdf7962a087)
+
+*Ref 8-10: Creating a knowledge base*
+
+Go to the knowledge section and click on all articles. From there click "new" and create your own article. For example, our knowledge base is "IT" and article template is "standard", then click "create". Then add a "short description" and create an article. 
+
+![image](https://github.com/user-attachments/assets/672be2d2-dddb-4b24-82a2-18664eeeb028)
+
+![image](https://github.com/user-attachments/assets/fa4e60cf-f028-40dd-b900-99a8b0b425f9)
+
+![image](https://github.com/user-attachments/assets/885396ba-770b-4457-b6ae-04e5387f85a2)
